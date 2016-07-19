@@ -1,0 +1,24 @@
+{
+  "name": "react-router-sitemap",
+  "version": "0.1.0",
+  "description": "A sitemap generator for react-router that can generate from dynamic slugs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaron7pm/react-router-sitemap.git"
+  },
+  "keywords": [
+    "react",
+    "react-router",
+    "sitemap"
+  ],
+  "author": "Aaron Dancer <me@aarondancer.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaron7pm/react-router-sitemap/issues"
+  },
+  "homepage": "https://github.com/aaron7pm/react-router-sitemap#readme"
+}
